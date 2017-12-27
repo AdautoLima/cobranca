@@ -21,3 +21,7 @@
 	float: left;
 	padding-top: 2px;
 }
+
+.PENDENTE  {background-color: red;}
+.RECEBIDO  {background-color: green;}
+.CANCELADO {background-color: #999999;}
